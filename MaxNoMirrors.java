@@ -1,4 +1,5 @@
 /*simons*/
+// clone1
 package com.mypackage;
 
 import java.util.Scanner;
